@@ -85,3 +85,11 @@ Aqui me he perdido un poco y he tenido que buscar porque no entiendo que se hace
 <img width="687" height="126" alt="image" src="https://github.com/user-attachments/assets/c4204cbe-3a33-4bd7-be00-135911b27257" />
 
 ya somos root.
+
+El script backup.sh usa eval (vulnerabilidad grave)
+bash
+
+COMMAND="/usr/bin/cp $FULL_NAME $BACKUP_DIR"
+eval $COMMAND
+
+Esto significa que cualquier entrada que pongas como argumento se ejecuta como un comando de shell completo.
