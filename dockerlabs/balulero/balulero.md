@@ -26,3 +26,6 @@ Ya con el usuario chocolate encuentro un fichero que veo que se ejecuta cada 5 s
 
 
 Me pongo en escucha y ya nos llega la shell
+
+![Uploading image.png…]()
+
