@@ -1,6 +1,6 @@
 # 🛡️ Portafolio de Hacking Ético — Práctica con Máquinas Vulnerables
 
-Bienvenido a mi portafolio personal de **hacking ético**. Aquí documento paso a paso la explotación de máquinas vulnerables que he trabajado en laboratorios como **TryHackMe**, **Hack The Box**, **VulnHub**, y entornos locales de práctica. Todo el contenido tiene fines educativos y fue realizado en entornos controlados.
+Bienvenido a mi portafolio personal de **hacking ético**. Aquí documento paso a paso la explotación de máquinas vulnerables que he trabajado en laboratorios como **TryHackMe**, **Hack The Box**, **VulnHub**, **Dockerlabs**, y entornos locales de práctica. Todo el contenido tiene fines educativos y fue realizado en entornos controlados.
 
 ---
 
